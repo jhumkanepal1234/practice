@@ -1,2 +1,2 @@
 # practice
-practice one from Syntax class
+practice two from Syntax class
